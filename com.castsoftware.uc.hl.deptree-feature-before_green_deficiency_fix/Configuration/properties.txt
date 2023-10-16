@@ -1,0 +1,4 @@
+cyclodxOutput=C:\code\with timestamp\com.castsoftware.uc.hl.deptree-feature-before_green_deficiency_fix\response.xml
+save_path_file=C:\code\with timestamp\com.castsoftware.uc.hl.deptree-feature-before_green_deficiency_fix\response_pom.xml
+outputpom=C:\code\with timestamp\com.castsoftware.uc.hl.deptree-feature-before_green_deficiency_fix\pom.xml
+newOutputFolder=C:\code\with timestamp\com.castsoftware.uc.hl.deptree-feature-before_green_deficiency_fix\outPutPOM
